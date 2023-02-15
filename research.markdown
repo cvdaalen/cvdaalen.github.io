@@ -5,15 +5,18 @@ permalink: /research/
 ---
 
 ### Research Interests
-My research interests include several aspects of autonomous navigation of robotic vehicles, namely computer vision, simultaneous localization and mapping (SLAM), dense mapping, conflict (collision) detection and avoidance, and motion planning.  The application field of my research include various types of autonomous vehicles (aerial, terrestrial, underwater) that operate in environments that are uncertain, dynamic and cluttered.
+My main research focus is on autonomous navigation of mobile robots, which includes simultaneous localisation and mapping (SLAM), terrain mapping, detection and tracking of moving objects (DATMO), collision prediction, and motion planning. My research draws from the fields of robotics, computer vision, control systems and machine learning. The primary underlying technique that I use for autonomous navigation is inference in probabilistic graphical models, but I use sampling-based planning, Gaussian processes, Bayesian optimisation and random finite sets as well. A secondary research focus is modelling of complex biological systems.
 
 ### Publications
 #### Journal publications
-- Lombard, C.D., and van Daalen, C.E., “Stochastic triangular mesh mapping: A terrain mapping technique for autonomous mobile robots”, Robotics and Autonomous Systems, in press, 2020. (preprint)
-- De Jongh, W.C., Jordaan, H.W., and van Daalen, C.E., “Experiment for pose estimation of uncooperative space debris using stereo vision”, Acta Astronautica, Vol. 168, pp. 164-173, 2020.
-- Esterhuizen, N., Clusella-Trullas, S., van Daalen, C.E., Schoombie, R.E., Boardman, L. and Terblanche, J.S., “Effects of within-generation thermal history on flight performance of  Ceratitis capitata: Colder is better”, Journal of Experimental Biology, Vol. 217 No. 19, pp. 3545-3556, 2014.
-- Schoombie, R., Boardman, L., Groenewald, B., Glazier, D.S., van Daalen, C.E., Clusella-Trullas, S., and Terblanche, J.S., “High metabolic and water-loss rates in caterpillar aggregations: evidence against the resource-conservation hypothesis”, Journal of Experimental Biology, Vol. 216 No. 23, pp. 4221-4325, 2013.
-- van Daalen, C.E. and Jones, T.,“Fast conflict detection using probability flow”, Automatica, Vol. 45, No. 8, pp. 1903-1909, 2009.
+- Roelofse, C.E. and **van Daalen, C.E.**, “An accurate and efficient approach to probabilistic conflict prediction”, accepted by *Automatica* (Elsevier), February 2023.
+- Robertson, S.C.J., **van Daalen, C.E.** and du Preez, J.A., “Efficient approximations of the multi-sensor labelled multi-Bernoulli filter”, *Signal Processing* (Elsevier), Vol. 199, 2022. ([DOI](https://doi.org/10.1016/j.sigpro.2022.108633), [preprint](https://arxiv.org/pdf/2103.10396))
+- Schoeman, J.C., **van Daalen, C.E.** and du Preez, J.A., “Degenerate Gaussian factors for probabilistic inference”, *The International Journal of Approximate Reasoning* (Elsevier), Vol. 143, p. 159-191, 2022. ([DOI](https://doi.org/10.1016/j.ijar.2022.01.008), [preprint](https://arxiv.org/pdf/2104.15010))
+- Lombard, C.D., and **van Daalen, C.E.**, “Stochastic triangular mesh mapping: A terrain mapping technique for autonomous mobile robots”, *Robotics and Autonomous Systems* (Elsevier), Vol. 127, 2020. ([DOI](https://doi.org/10.1016/j.robot.2020.103449), [preprint](https://arxiv.org/pdf/1910.03644))
+- De Jongh, W.C., Jordaan, H.W., and **van Daalen, C.E.**, “Experiment for pose estimation of uncooperative space debris using stereo vision”, *Acta Astronautica* (Elsevier), Vol. 168, pp. 164-173, 2020. ([DOI](https://doi.org/10.1016/j.actaastro.2019.12.006))
+- Esterhuizen, N., Clusella-Trullas, S., **van Daalen, C.E.**, Schoombie, R.E., Boardman, L. and Terblanche, J.S., “Effects of within-generation thermal history on flight performance of  Ceratitis capitata: Colder is better”, *Journal of Experimental Biology*, Vol. 217 No. 19, pp. 3545-3556, 2014. ([DOI](https://doi.org/10.1242/jeb.106526))
+- Schoombie, R., Boardman, L., Groenewald, B., Glazier, D.S., **van Daalen, C.E.**, Clusella-Trullas, S., and Terblanche, J.S., “High metabolic and water-loss rates in caterpillar aggregations: evidence against the resource-conservation hypothesis”, *Journal of Experimental Biology*, Vol. 216 No. 23, pp. 4221-4325, 2013. ([DOI](https://doi.org/10.1242/jeb.095554))
+- **van Daalen, C.E.** and Jones, T.,“Fast conflict detection using probability flow”, *Automatica* (Elsevier), Vol. 45, No. 8, pp. 1903-1909, 2009. ([DOI](https://doi.org/10.1016/j.automatica.2009.04.010))
 
 #### Conference publications
 - Smulders, D., Uren, K., van Schoor, G., van Daalen, C.E. and Engelbrecht, J.A.A., CREAK
@@ -27,4 +30,4 @@ descriptor evaluation for visual odometry, SAUPEC/RobMech/PRASA, Bloemfontein, S
 - Brink, L.J., van Daalen, C.E. and Brink, W.H., Stereo Vision as a Sensor for EKF SLAM, 22nd Annual Symposium of the Pattern Recognition Association of South Africa, Johannesburg, South Africa, 2011.
 
 #### PhD Dissertation
-van Daalen, C.E. 2010. Conflict Detection and Resolution for Autonomous Vehicles. PhD dissertation, Stellenbosch University.
+van Daalen, C.E. 2010. [Conflict Detection and Resolution for Autonomous Vehicles](http://hdl.handle.net/10019.1/3994). PhD dissertation, Stellenbosch University.
