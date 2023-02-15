@@ -7,7 +7,7 @@ layout: page
 
 ![Corné](/images/CvD_photo_tiny.jpg){: style="float: left; margin-right: 1em;"}
 
-I am a senior lecturer in the Computer and Control Systems group in the [Department of Electrical and Electronic Engineering](https://www.ee.sun.ac.za/) at [Stellenbosch University](https://www.sun.ac.za/), South Africa.  I teach courses in Electrical and Electronic Engineering at both undergraduate and postgraduate level.  My research field is autonomous vehicles, where I focus on autonomous navigation.
+I am a senior lecturer in the Computer and Control Systems group in the [Department of Electrical and Electronic Engineering](https://www.ee.sun.ac.za/) at [Stellenbosch University](https://www.sun.ac.za/), South Africa.  I teach courses in Electrical and Electronic Engineering at both undergraduate and postgraduate level.  My main research interest is probabilistic modelling and inference applied to mobile robots.
 
 I form part of the [Electronic Systems Laboratory (ESL)](https://www.esl.sun.ac.za/) at Stellenbosch University, which consists of postgraduate engineering students, engineers and lecturers that do research on autonomous vehicles (including unmanned aerial vehicles (UAVs), autonomous terrestrial vehicles and autonomous underwater vehicles (AUVs) ) and satellite systems.
 
