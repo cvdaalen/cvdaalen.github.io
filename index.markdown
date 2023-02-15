@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![Corné](/images/CvD_photo_small.jpg){: style="float: left; margin-right: 1em;"}
+![Corné](/images/CvD_photo_tiny.jpg){: style="float: left; margin-right: 1em;"}
 
 I am a senior lecturer in the Computer and Control Systems group in the Department of Electrical and Electronic Engineering at Stellenbosch University, South Africa.  I teach courses in Electrical and Electronic Engineering at both undergraduate and postgraduate level.  My research field is autonomous vehicles, where I focus on autonomous navigation.
 
