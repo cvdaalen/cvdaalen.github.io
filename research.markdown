@@ -19,15 +19,20 @@ My main research focus is on autonomous navigation of mobile robots, which inclu
 - **van Daalen, C.E.** and Jones, T.,“Fast conflict detection using probability flow”, *Automatica* (Elsevier), Vol. 45, No. 8, pp. 1903-1909, 2009. ([DOI](https://doi.org/10.1016/j.automatica.2009.04.010))
 
 #### Conference publications
+- Dorfling, A. and **van Daalen, C.E.**, *Motion segmentation using probabilistic models*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South Africa, 2022.
+- Strauss, M.B. and **van Daalen, C.E.**, *Outlier removal through semantic segmentation in stereo images*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South Africa, 2022.
+- Visser, E., **van Daalen, C.E.** and Schoeman, J.C., *Lossy compression of observations for Gaussian process regression*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South
+Africa, 2022.
+- Maseko, B.B., **van Daalen, C.E.** and Treurnicht, J., *Optimised Informed RRTs for Mobile Robot Path Planning*, The Control Conference Africa, Magaliesberg, South Africa, 2021.
 - Smulders, D., Uren, K., van Schoor, G., van Daalen, C.E. and Engelbrecht, J.A.A., CREAK
 descriptor evaluation for visual odometry, SAUPEC/RobMech/PRASA, Bloemfontein, South Africa, 2019.
-- Botha, F.J., van Daalen, C.E. and Treurnicht, J., Data fusion of radar and stereo vision for detection and tracking of moving objects, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
-- Chiu, A., Jones, T. and van Daalen, C.E., A comparison of linearisation and the unscented transform for computer vision applications, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
-- Lombard, C.D. and van Daalen, C.E., Extrinsic calibration of a push-broom lidar and camera using 3-D multi-planar association, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
-- van den Aardweg, W., Engelbrecht, J.A.A. and van Daalen, C.E., Sampling-based Collision Avoidance for Commercial Airliners with Intruder Aircraft and Terrain, IEEE Aerospace Conference, Big Sky, Montana, U.S.A., 2015.
-- Brink, L.J., van Daalen, C.E. and Brink, W.H., Probabilistic Outlier Removal for Robust Landmark Identication in Stereo Vision Based SLAM, IEEE/RSJ International Conference on Intelligent Robots and Systems, Vilamoura, Portugal, 2012.
-- Brink, L.J., van Daalen, C.E. and Brink, W.H., FastSLAM with Stereo Vision, 23rd Annual Symposium of the Pattern Recognition Association of South Africa, Pretoria, South Africa, 2012.
-- Brink, L.J., van Daalen, C.E. and Brink, W.H., Stereo Vision as a Sensor for EKF SLAM, 22nd Annual Symposium of the Pattern Recognition Association of South Africa, Johannesburg, South Africa, 2011.
+- Botha, F.J., **van Daalen, C.E.** and Treurnicht, J., *Data fusion of radar and stereo vision for detection and tracking of moving objects*, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
+- Chiu, A., Jones, T. and **van Daalen, C.E.**, *A comparison of linearisation and the unscented transform for computer vision applications*, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
+- Lombard, C.D. and **van Daalen, C.E.**, *Extrinsic calibration of a push-broom lidar and camera using 3-D multi-planar association*, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
+- van den Aardweg, W., Engelbrecht, J.A.A. and **van Daalen, C.E.**, *Sampling-based Collision Avoidance for Commercial Airliners with Intruder Aircraft and Terrain*, IEEE Aerospace Conference, Big Sky, Montana, U.S.A., 2015. ([DOI](https://doi.org/10.1109/AERO.2015.7119044))
+- Brink, L.J., **van Daalen, C.E.** and Brink, W.H., *Probabilistic Outlier Removal for Robust Landmark Identification in Stereo Vision Based SLAM*, IEEE/RSJ International Conference on Intelligent Robots and Systems, Vilamoura, Portugal, 2012. ([DOI](https://doi.org/10.1109/IROS.2012.6385622))
+- Brink, L.J., **van Daalen, C.E.** and Brink, W.H., *FastSLAM with Stereo Vision*, 23rd Annual Symposium of the Pattern Recognition Association of South Africa, Pretoria, South Africa, 2012.
+- Brink, L.J., **van Daalen, C.E.** and Brink, W.H., *Stereo Vision as a Sensor for EKF SLAM*, 22nd Annual Symposium of the Pattern Recognition Association of South Africa, Johannesburg, South Africa, 2011.
 
 #### PhD Dissertation
 van Daalen, C.E. 2010. [Conflict Detection and Resolution for Autonomous Vehicles](http://hdl.handle.net/10019.1/3994). PhD dissertation, Stellenbosch University.
