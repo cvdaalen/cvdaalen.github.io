@@ -13,9 +13,9 @@ I form part of the [Electronic Systems Laboratory (ESL)](https://www.esl.sun.ac.
 
 #### Short Biography:
 - Senior Lecturer, Department of Electrical and Electronic Engineering, Stellenbosch University, 2015-present
-- Power Systems Engineer, Eskom Distribution, Brackenfell, 2004-2007
 - Lecturer, Department of Electrical and Electronic Engineering, Stellenbosch University, 2010-2014
 - PhD (Electronic Engineering), Stellenbosch University, 2010
+- Power Systems Engineer, Eskom Distribution, Brackenfell, 2004-2007
 - MScEng (Electronic Engineering), Stellenbosch University, 2006
 - BEng (Electrical and Electronic Engineering), Stellenbosch University, 2001
 
