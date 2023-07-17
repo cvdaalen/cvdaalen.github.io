@@ -9,7 +9,7 @@ My main research focus is on autonomous navigation of mobile robots, which inclu
 
 ### Publications
 #### Journal publications
-- Müller, C.J. and **van Daalen, C.E.**, “Map point selection for visual SLAM”, Robotics and Autonomous Systems (Elsevier), Vol. 167, 2023. ([DOI](https://doi.org/10.1016/j.robot.2023.104485), [preprint](https://arxiv.org/pdf/2306.12901.pdf))
+- Müller, C.J. and **van Daalen, C.E.**, “Map point selection for visual SLAM”, *Robotics and Autonomous Systems* (Elsevier), Vol. 167, 2023. ([DOI](https://doi.org/10.1016/j.robot.2023.104485), [preprint](https://arxiv.org/pdf/2306.12901.pdf))
 - Roelofse, C.E. and **van Daalen, C.E.**, “An accurate and efficient approach to probabilistic conflict prediction”, *Automatica* (Elsevier), Vol. 153, 2023. ([DOI](https://doi.org/10.1016/j.automatica.2023.111021), [preprint](https://arxiv.org/pdf/2302.13413.pdf))
 - Robertson, S.C.J., **van Daalen, C.E.** and du Preez, J.A., “Efficient approximations of the multi-sensor labelled multi-Bernoulli filter”, *Signal Processing* (Elsevier), Vol. 199, 2022. ([DOI](https://doi.org/10.1016/j.sigpro.2022.108633), [preprint](https://arxiv.org/pdf/2103.10396))
 - Schoeman, J.C., **van Daalen, C.E.** and du Preez, J.A., “Degenerate Gaussian factors for probabilistic inference”, *The International Journal of Approximate Reasoning* (Elsevier), Vol. 143, p. 159-191, 2022. ([DOI](https://doi.org/10.1016/j.ijar.2022.01.008), [preprint](https://arxiv.org/pdf/2104.15010))
