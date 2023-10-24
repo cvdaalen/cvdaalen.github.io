@@ -6,7 +6,7 @@ permalink: /students/
 
 #### PhD students (completed)
 - S.C.J. Robertson (co-supervised by Prof. J.A. du Preez) -- 2023
-  - Efficient approximations of the multi-sensor labelled multi-Bernoulli filter
+  - [Efficient approximations of the multi-sensor labelled multi-Bernoulli filter](http://hdl.handle.net/10019.1/127206)
 - J.C. Schoeman (co-supervised by Prof. J.A. du Preez) -- 2021
   - [Degenerate Gaussian factors for probabilistic inference](http://hdl.handle.net/10019.1/123876)
 - C.D. Lombard -- 2020
