@@ -5,6 +5,8 @@ permalink: /students/
 ---
 
 #### PhD students (completed)
+- C.E. Roelofse -- 2023
+  - Probabilistic conflict prediction -- an accuaret and computationally efficient approach
 - S.C.J. Robertson (co-supervised by Prof. J.A. du Preez) -- 2023
   - [Efficient approximations of the multi-sensor labelled multi-Bernoulli filter](http://hdl.handle.net/10019.1/127206)
 - J.C. Schoeman (co-supervised by Prof. J.A. du Preez) -- 2021
