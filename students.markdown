@@ -5,8 +5,10 @@ permalink: /students/
 ---
 
 #### PhD students (completed)
+- C.J. Müller -- 2024
+  - Map point selection for hardware-constrained visual simultaneous localisation and mapping
 - C.E. Roelofse -- 2023
-  - Probabilistic conflict prediction -- an accurate and computationally efficient approach
+  - [Probabilistic conflict prediction -- an accurate and computationally efficient approach](https://scholar.sun.ac.za/handle/10019.1/128923)
 - S.C.J. Robertson (co-supervised by Prof. J.A. du Preez) -- 2023
   - [Efficient approximations of the multi-sensor labelled multi-Bernoulli filter](http://hdl.handle.net/10019.1/127206)
 - J.C. Schoeman (co-supervised by Prof. J.A. du Preez) -- 2021
@@ -17,6 +19,10 @@ permalink: /students/
   - [Using probabilistic graphical models to detect dynamic objects for mobile robots](http://hdl.handle.net/10019.1/100224)
 
 #### Masters students (completed)
+- M.B. Strauss -- MEng, 2024
+  - Robust place recognition for vision-based SLAM systems using semantic information
+- Z. Sijovu (co-supervised by Dr M. Burke and Dr N. Makondo) -- MEng, 2024
+  - Probabilistic state estimation and calibration for robot manipulators
 - R.H. van Tonder (co-supervised by Prof. J.A. du Preez) -- MEng, 2022
   - [An improved message-passing scheme for approximate inference using cluster graphs](http://hdl.handle.net/10019.1/124652)
 - B.B. Maseko (co-supervised by Mr J. Treurnicht) -- MEng, 2020
