@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Room M2112 (temporary office)\
+Room E4006\
 Department of Electrical and Electronic Engineering\
 Stellenbosch University\
 Private Bag X1\
