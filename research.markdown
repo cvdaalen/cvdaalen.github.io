@@ -20,11 +20,11 @@ My main research focus is on autonomous navigation of mobile robots, which inclu
 - **van Daalen, C.E.** and Jones, T.,“Fast conflict detection using probability flow”, *Automatica* (Elsevier), Vol. 45, No. 8, pp. 1903-1909, 2009. ([DOI](https://doi.org/10.1016/j.automatica.2009.04.010))
 
 #### Conference publications
-- Dorfling, A. and **van Daalen, C.E.**, *Motion segmentation using probabilistic models*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South Africa, 2022.
-- Strauss, M.B. and **van Daalen, C.E.**, *Outlier removal through semantic segmentation in stereo images*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South Africa, 2022.
+- Dorfling, A. and **van Daalen, C.E.**, *A motion segmentation technique for mobile robots using probabilistic models*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South Africa, 2022. ([DOI](https://doi.org/10.1051/matecconf/202237007004))
+- Strauss, M.B. and **van Daalen, C.E.**, *Neural Network-Based Stereo Vision Outlier Removal*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South Africa, 2022. ([DOI](https://doi.org/10.1051/matecconf/202237007009))
 - Visser, E., **van Daalen, C.E.** and Schoeman, J.C., *Lossy compression of observations for Gaussian process regression*, The RAPDASA-RobMech-PRASA-CoSAAMI Conference, Stellenbosch, South
-Africa, 2022.
-- Maseko, B.B., **van Daalen, C.E.** and Treurnicht, J., *Optimised Informed RRTs for Mobile Robot Path Planning*, The Control Conference Africa, Magaliesberg, South Africa, 2021.
+Africa, 2022. ([DOI](https://doi.org/10.1051/matecconf/202237007006))
+- Maseko, B.B., **van Daalen, C.E.** and Treurnicht, J., *Optimised Informed RRTs for Mobile Robot Path Planning*, The Control Conference Africa, Magaliesberg, South Africa, 2021. ([DOI](https://doi.org/10.1016/j.ifacol.2021.12.027), [preprint](https://arxiv.org/abs/2108.08051))
 - Smulders, D., Uren, K., van Schoor, G., van Daalen, C.E. and Engelbrecht, J.A.A., CREAK
 descriptor evaluation for visual odometry, SAUPEC/RobMech/PRASA, Bloemfontein, South Africa, 2019.
 - Botha, F.J., **van Daalen, C.E.** and Treurnicht, J., *Data fusion of radar and stereo vision for detection and tracking of moving objects*, Pattern Recognition Association of South Africa and Robotics and Mechatronics International Conference (PRASA-RobMech), Stellenbosch, South Africa, 2016.
