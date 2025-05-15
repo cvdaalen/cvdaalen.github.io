@@ -5,6 +5,8 @@ permalink: /students/
 ---
 
 #### PhD students (completed)
+- E. Visser (co-supervisor; supervised by Dr J.C. Schoeman) -- 2025
+  - LABCAT: Locally adaptive Bayesian optimization using principal-component-aligned trust regions
 - C.J. Müller -- 2024
   - [Map point selection for hardware-constrained visual simultaneous localisation and mapping](https://scholar.sun.ac.za/handle/10019.1/130484)
 - C.E. Roelofse -- 2023
