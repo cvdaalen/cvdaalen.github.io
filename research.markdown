@@ -9,6 +9,7 @@ My main research focus is on autonomous navigation of mobile robots, which inclu
 
 ### Publications
 #### Journal publications
+- Visser, E. and **van Daalen, C.E.** and Schoeman, J.C., "LABCAT: Locally adaptive Bayesian optimization using principal-component-aligned trust regions", accepted for publication in *Swarm and Evolutionary Computation* (Elsevier), May 2025. ([preprint](https://arxiv.org/pdf/2311.11328))
 - Müller, C.J. and **van Daalen, C.E.**, “Map point selection for visual SLAM”, *Robotics and Autonomous Systems* (Elsevier), Vol. 167, 2023. ([DOI](https://doi.org/10.1016/j.robot.2023.104485), [preprint](https://arxiv.org/pdf/2306.12901.pdf))
 - Roelofse, C.E. and **van Daalen, C.E.**, “An accurate and efficient approach to probabilistic conflict prediction”, *Automatica* (Elsevier), Vol. 153, 2023. ([DOI](https://doi.org/10.1016/j.automatica.2023.111021), [preprint](https://arxiv.org/pdf/2302.13413.pdf))
 - Robertson, S.C.J., **van Daalen, C.E.** and du Preez, J.A., “Efficient approximations of the multi-sensor labelled multi-Bernoulli filter”, *Signal Processing* (Elsevier), Vol. 199, 2022. ([DOI](https://doi.org/10.1016/j.sigpro.2022.108633), [preprint](https://arxiv.org/pdf/2103.10396))
