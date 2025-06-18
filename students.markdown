@@ -22,7 +22,7 @@ permalink: /students/
 
 #### Masters students (completed)
 - A. Dorfling -- MEng, 2024
-  - Simultaneous robust visual odometry and motion segmentation for mobile robots using probabilistic graphical models
+  - [Simultaneous robust visual odometry and motion segmentation for mobile robots using probabilistic graphical models](https://scholar.sun.ac.za/handle/10019.1/131644)
 - M.B. Strauss -- MEng, 2024
   - [Robust place recognition for vision-based SLAM systems using semantic information](https://scholar.sun.ac.za/handle/10019.1/130467)
 - Z. Sijovu (co-supervised by Dr M. Burke and Dr N. Makondo) -- MEng, 2024
